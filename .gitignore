@@ -1,0 +1,11 @@
+__pycache__
+.env
+.learn
+.vscode
+TODO.md
+theory/
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/playstore_reviews.csv
+data/processed/*
+!data/processed/.gitkeepREADME.4geeks.es.md

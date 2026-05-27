@@ -1,4 +1,4 @@
-# Clasificador de sentimientos — Play Store Reviews
+# Análisis de Sentimientos con Naive Bayes: GridSearchCV, Comparativa de Modelos y Métricas de Clasificación
 
 ## Contexto
 
